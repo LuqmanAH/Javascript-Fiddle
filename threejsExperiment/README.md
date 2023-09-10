@@ -12,3 +12,7 @@ cons:
 
 - might resource intensive in production env
 - better for static sites
+
+**sample scrolling**
+
+![sample](img/../ThreeJsExperiment/img/sampleScroll.gif)
